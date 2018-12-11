@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Uber_android_app_clone
 
 ▷ Create an android app like uber
@@ -59,6 +60,9 @@ P.S: If ou're going to download the full project please use your own firebase AP
 7 - Go to the android studio -> java -> your package name -> PayPalConfig:
         a) add the PAYPAL_CLIENT_ID which you get from the paypal developer control Panel;
         b) add the PAYPAL_PAYOUT_URL which you get in the firebase control panel -> functions and the url that you want is the payouts;
+=======
+# Gas
+>>>>>>> aac42ff1a0e8ed055bc6684a0007fd804bcc585b
 =======
 # Gas
 >>>>>>> aac42ff1a0e8ed055bc6684a0007fd804bcc585b
